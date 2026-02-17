@@ -1,0 +1,11 @@
+marks=[45,6,8,2,4,56]
+marks.append(4)
+print(marks)
+marks.sort()
+print(marks)
+marks.sort(reverse=True)
+print(marks)
+marks.reverse()
+print(marks)
+marks.insert(3,5)
+print(marks)
