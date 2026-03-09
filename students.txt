@@ -1,0 +1,3 @@
+raj,78
+amit,65
+sita,90
